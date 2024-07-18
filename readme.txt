@@ -6,3 +6,4 @@ Git add no commit
 New add a LICENSE
 
 Creating a branch is quick
+Creating a new branch is quick & simple.
